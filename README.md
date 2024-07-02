@@ -20,4 +20,3 @@ Pour installer le projet ft_printf, suivez ces étapes :
    ```bash
    git clone https://github.com/Sycourbi/printf.git
    cd printf
-   make
