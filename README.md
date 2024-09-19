@@ -4,6 +4,8 @@
 ![Printf Implementation](https://img.shields.io/badge/printf-implementation-yellowgreen)
 ![Percentages](https://img.shields.io/badge/specifiers-%25-yellow)
 ![Format Specifiers](https://img.shields.io/badge/format%20specifiers-yes-brightgreen)
+![42](https://img.shields.io/badge/school-42-green)
+![42 Paris](https://img.shields.io/badge/42-Paris-blue)
 
 ## Description
 
