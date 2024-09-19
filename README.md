@@ -1,5 +1,10 @@
 # ft_printf
 
+![C Language](https://img.shields.io/badge/language-C-blue)
+![Printf Implementation](https://img.shields.io/badge/printf-implementation-yellowgreen)
+![Percentages](https://img.shields.io/badge/specifiers-%25-yellow)
+![Format Specifiers](https://img.shields.io/badge/format%20specifiers-yes-brightgreen)
+
 ## Description
 
 Bienvenue sur le dépôt du projet ft_printf de l'École 42. Ce projet consiste à recréer la fonction printf de la bibliothèque standard du langage C, en ajoutant des fonctionnalités et des spécifications supplémentaires.
